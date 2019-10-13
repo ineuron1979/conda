@@ -28,3 +28,9 @@ packages that should be removed are:
 * appnope=0.1.0
 * libgfortran=3.0.1
 * libcxx=4.0.1
+
+
+
+
+
+https://mybinder.org/v2/gh/ineuron1979/conda/blob/master/environment.yml/master
