@@ -33,4 +33,4 @@ packages that should be removed are:
 
 
 
-https://mybinder.org/v2/gh/ineuron1979/conda/blob/master/environment.yml/master
+https://mybinder.org/v2/gh/ineuron1979/conda/master
